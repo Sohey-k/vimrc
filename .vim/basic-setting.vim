@@ -28,8 +28,8 @@ set autoindent
 set smartindent
 
 "ファイルのバックアップを無効化
-set nobackup
-set nowritebackup
+set backup
+set writebackup
 
 " コマンド履歴の保存
 set history=1000
