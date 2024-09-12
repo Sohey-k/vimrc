@@ -39,3 +39,23 @@ set cursorline
 
 "ファイルタイプの自動検出
 filetype plugin indent on 
+
+"行末の空白を表示する
+set list
+set listchars=trail:·
+
+"ファイルの変更を自動的に検出する
+set autoread
+
+"コマンドの補完を有効にする
+set wildmenu
+
+"括弧の対応をハイライトする
+set showmatch
+
+"ファイルのエンコーディングを設定する
+set encoding=utf-8
+
+"行の折り返しをスマートにする
+set linebreak
+
