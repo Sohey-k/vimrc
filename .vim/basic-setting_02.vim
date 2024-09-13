@@ -73,6 +73,7 @@ set clipboard+=unnamedplus " システムクリップボードと共有
 " バックアップファイルを作成しない
 set nobackup
 set noswapfile
+set nowritebackup
 
 " 行末の空白を可視化
 set listchars=tab:>-,trail:-,extends:>,precedes:<,nbsp:%
