@@ -1,5 +1,5 @@
 " 基本設定ファイルの読み込み
-source ~/vim-config/.vim/basic-setting_02.vim
+source ~/vim-config/.vim/basic-setting.vim
 
 "Automatic installation on startup
 let s:jetpackfile = expand('<sfile>:p:h') .. '/.vim/pack/jetpack/opt/vim-jetpack/plugin/jetpack.vim'

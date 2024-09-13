@@ -58,8 +58,4 @@ set encoding=utf-8
 
 "行の折り返しをスマートにする
 set linebreak
-" Ctrl + v をビジュアルブロックモードにマッピング
-nnoremap <C-v> <C-q>
-vnoremap <C-v> <C-q>
-
 
