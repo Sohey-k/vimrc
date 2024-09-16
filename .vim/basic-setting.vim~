@@ -13,8 +13,9 @@ set incsearch
 " 行の折り返しを無効化する
 set nowrap
 
-"シンタックスハイライトを有効にする
+" カラースキームを設定する
 syntax enable
+colorscheme desert
 
 " ファイルを自動保存する
 set autowrite
